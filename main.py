@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-
+# Git Test
 
 def carregar_arquivo():
     """Carrega um arquivo CSV ou JSON baseado no caminho fornecido pelo usuário."""
